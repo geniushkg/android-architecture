@@ -1,8 +1,8 @@
-# todo-mvp
+# todo-mvc
 
-This version of the app is called todo-mvp, and provides a foundation for other samples in this project. The sample aims to:
+This version of the app is called todo-mvc, and provides a foundation for other samples in this project. The sample aims to:
 
-* Provide a basic [Model-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) (MVP) architecture without using any architectural frameworks.
+* Provide a basic [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) (MVC) architecture without using any architectural frameworks.
 * Act as a reference point for comparing and contrasting the other samples in this project.
 
 **Note:** This project uses the following naming convention, across all repository branches, to distinguish between View classes and MVP views:
@@ -15,9 +15,9 @@ This version of the app is called todo-mvp, and provides a foundation for other 
 Before exploring this sample, you might find it useful to familiarize yourself with the following topics:
 
 * The [project README](https://github.com/googlesamples/android-architecture/tree/master)
-* The [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) architecture
+* The [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) architecture
   
-The todo-mvp sample uses the following dependencies:
+The todo-mvc sample uses the following dependencies:
 * [Common Android support libraries](https://developer.android.com/topic/libraries/support-library/index.html) -  Packages in the com.android.support.* namespace provide backwards compatibility and other features.
 * [Android Testing Support Library](https://developer.android.com/topic/libraries/testing-support-library/index.html) -  A framework used to support UI tests, using both Espresso, and AndroidJUnitRunner.
 * [Mockito](http://site.mockito.org/) - A mocking framework used to implement unit tests.
